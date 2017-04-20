@@ -3,7 +3,7 @@ perl code to manage legacy code
 
 ## How to install CPAN modules
 
-In the vm:
+In the vm, run in the terminal:
 - cpan App::cpanminus
 - cpanm <Module::Name>
 
