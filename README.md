@@ -2,7 +2,7 @@
 perl code to manage legacy code
 
 ## How to install CPAN modules
-Solve the error: '[error] Can't locate JSON/WebToken.pm in @INC'
+Solve the error: 'Can't locate <Module::Name>.pm in @INC'
 
 In the vm, run in the terminal:
 - cpan App::cpanminus
